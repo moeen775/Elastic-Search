@@ -19,12 +19,21 @@ Product with huge database facing issues.productuct infromation retriveal taking
 All those thing Lead 
 **Poor User Experience.**
 ***
+## Elastic Search VS SQL
+
+|SQL|VS|Elastic Search|
+|----|-----|----|
+|Column|----|Field|
+|Row|----|Document|
+|Table|----|Index|
+|Schema|----|Implicit|
+|Database|----|Cluster|
 ## Elastic Search Basic Termas
 
-* *Index -->
-* *Cluster -->
-* *Shards
-* *Nodes 
+* Index -->
+* Cluster -->
+* Shards -->
+* Nodes --> 
 ***
 
 ## List of company Use Elastic Search 
