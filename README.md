@@ -17,7 +17,7 @@
 ## Why we use Elastic Search ?
 Product with huge database facing issues.productuct infromation retriveal taking too long.Because Relational database work comparartively slow  when it comes huge data and fetching search through SQl Queries.beacuse tables ar dependen on another and basically normal search queries use linear seach techique for find any data. coplexity of n. if a table have 100000 row.for a search it may take 100000 times for find result.
 All those thing Lead 
-**Poor User Experience
+**Poor User Experience**
 
 ## List of company Use Elastic Search 
 * NETFLIX
