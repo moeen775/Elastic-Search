@@ -43,6 +43,15 @@ All those thing Lead
 > Each node will hold 500 documents
 > if  you have assigned the value shard_number =2 in your index.
 > Each machine in your cluster only has to deal with some pieces of your data.
+'''Json
+PUT/my-index-000001
+{
+ "settings":{
+              "number_of_shards": 3,
+              "number_of_replicas":2
+              }
+}
+'''
 * Nodes --> 
 ***
 
