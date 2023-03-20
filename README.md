@@ -48,7 +48,7 @@ All those thing Lead
 
 **PUT/my_index_000001**
 **{***
- "ettings":{
+ "Settings":{
               "number_of_shards": 3,
               "number_of_replicas":2
               }
