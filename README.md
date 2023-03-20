@@ -36,9 +36,10 @@ All those thing Lead
 #### Index Craete API
 'PUT/my-index-000001'
 **Request**
-'PUT/<index>'
-* Cluster -->
-* Shards -->
+'PUT/000001'
+* Cluster --> Some collection of shards and replica are called nodes and collection of nodes are called Cluster.For example Table Of database.**Collection of connected Nodes are called Cluster**
+* Shards --> Shards are the pieces of our information.
+> Node
 * Nodes --> 
 ***
 
