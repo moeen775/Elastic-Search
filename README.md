@@ -39,7 +39,10 @@ All those thing Lead
 'PUT/000001'
 * Cluster --> Some collection of shards and replica are called nodes and collection of nodes are called Cluster.For example Table Of database.**Collection of connected Nodes are called Cluster**
 * Shards --> Shards are the pieces of our information.
-> Node
+> IF you have an index of 1000 documents  and a cluster with 2 nodes
+> Each node will hold 500 documents
+> if  you have assigned the value shard_number =2 in your index.
+> Each machine in your cluster only has to deal with some pieces of your data.
 * Nodes --> 
 ***
 
