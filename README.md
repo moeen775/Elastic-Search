@@ -28,9 +28,15 @@ All those thing Lead
 |Table|----|Index|
 |Schema|----|Implicit|
 |Database|----|Cluster|
+|Table|Data oriantation |Json|
+
 ## Elastic Search Basic Termas
 
-* Index -->
+* Index --> An index is like a table in a relational database.It store compklex data structure  in the from of Json.Index are some time data organization mecganisam aline the user with pertison of data with a certain way.it provide optimize collection of document has a feild a key value pare with store data.index organize data logically which map with one or more shards.
+#### Index Craete API
+'PUT/my-index-000001'
+**Request**
+'PUT/<index>'
 * Cluster -->
 * Shards -->
 * Nodes --> 
