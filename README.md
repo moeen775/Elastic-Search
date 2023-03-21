@@ -33,7 +33,7 @@ All those thing Lead
 ## RDMS --> Databases -->Tables --> Columes/Row
 ## Elastic Search --> Index --> Types --> Document with properties
 ### Elastic Search API
-* Document API ---> * Single Document APIs * Multi Document APIs
+* Document API ---> 1. Single Document APIs(CRUD) 2. Multi Document APIs
 * Search API
 * Indces API
 * Cat API
